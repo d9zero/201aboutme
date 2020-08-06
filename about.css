@@ -1,0 +1,44 @@
+
+
+body{
+
+  background-color: black;  
+
+
+}
+
+.DA {
+  margin: 30px;
+  padding: 10px;
+  height: 320px;
+  border: 500px solid green line;
+}
+
+.navigation {
+  background-color: lightgray;
+  text-align: left;
+  color: black;
+  text-shadow: 20px;
+  height: 200px;
+  padding: 10px;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2FQWVbEQk.jpg&f=1&nofb=1");
+    background-origin: border-box;
+    background-position: center, 100px 100px;
+  
+}
+
+.game {
+  margin: center;
+}
+
+.intro {
+  background-color: lightgray;
+  text-align: left;
+  color: black;
+  margin: 50px;
+  padding: 15px;
+  width: 800px;
+  height: 300px;
+  border-style: inset;
+  
+}
