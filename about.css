@@ -8,12 +8,18 @@ body{
 }
 
 .DA {
-  margin: 30px;
+  margin: 50px;
   padding: 10px;
   height: 320px;
-  border: 500px solid green line;
+  border: thick double green;
 }
 
+
+#navbar{
+  height: 100px;
+  width: 960px;
+  background-color: honeydew;
+}
 .navigation {
   background-color: lightgray;
   text-align: left;
@@ -40,5 +46,6 @@ body{
   width: 800px;
   height: 300px;
   border-style: inset;
+  border: thick double green;
   
 }
